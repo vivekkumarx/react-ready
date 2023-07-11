@@ -1,0 +1,22 @@
+.appHeaderContainer {
+  background-color: darkslategray;
+  position: sticky;
+  top: 0;
+}
+
+.navList {
+  margin: 0;
+  padding: 0;
+}
+
+.navList li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.navList a {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  padding: 4px 12px;
+}

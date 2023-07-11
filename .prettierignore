@@ -1,0 +1,9 @@
+# Artifacts
+build
+coverage
+
+# Static files
+public
+
+# Dependiencies
+node_ignore

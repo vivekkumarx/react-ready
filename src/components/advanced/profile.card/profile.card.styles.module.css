@@ -1,0 +1,10 @@
+.profileCardContainer {
+  border: 2px solid gray;
+  margin: 8px;
+  padding: 8px;
+  display: flex;
+}
+
+.profileCardBioContainer {
+  margin: 8px;
+}
